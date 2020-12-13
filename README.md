@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Sambit79801&style=flat) </br>
   Hi everyone </br>
  <img src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg" width="20" height="20" href="https://discord.gg/fCzMQ8fY">
-![Github](https://github.com/Sambit79801) </br>
+![](https://github.com/Sambit79801)(https://github.com/Sambit79801) </br>
 • I am developer from India </br>
 • Developing discord bots is a hobby of mine </br>
 • Want to meet me on Discord?? ZNC么ᴳᵒᵈl๏ภel𝕪#2390 </br>
